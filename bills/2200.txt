@@ -1,0 +1,14 @@
+	Welcome To Delhi Store
+
+ Bill Number : 2200
+ Customer Name : aamir
+ Phone Number : 98765432
+ ====================================
+ Products		Qty		Price
+ ====================================
+ Bath Soap		1		40
+ Food Oil		6		750
+ ------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 75.0
+ ------------------------------------

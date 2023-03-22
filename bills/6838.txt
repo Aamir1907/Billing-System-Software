@@ -1,0 +1,17 @@
+	Welcome To Delhi Store
+
+ Bill Number : 6838
+ Customer Name : Aamir
+ Phone Number : 9821770137
+ ====================================
+ Products		Qty		Price
+ ====================================
+ Bath Soap		1		40
+ Rice		1		60
+ Coco Cola		1		85
+ ------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 6.0
+ Cold Drink Tax			Rs. 4.25
+ Total Bill			Rs. 197.25
+ ------------------------------------
